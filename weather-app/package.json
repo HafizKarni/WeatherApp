@@ -5,7 +5,7 @@
   "proxy": "http://localhost:3001",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "browser-history": "^1.0.1",
     "date-range-array": "^2.1.0",
